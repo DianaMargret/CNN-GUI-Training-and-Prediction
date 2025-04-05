@@ -91,7 +91,7 @@ To distribute this software as an executable file:
 2. Navigate to the directory containing `FINAL-BEST-GUI.py`.
 3. Run PyInstaller:
    ```bash
-   pyinstaller --onefile --noconsole FINAL-BEST-GUI.py
+   pyinstaller --onefile --noconsole CNN_GUI.py
    ```
 4. After completion:
    - The `.exe` file will be located in the `dist` folder within your project directory.
