@@ -38,11 +38,11 @@ This application is a Python-based GUI software for training and predicting usin
    ```
 
 #### **Steps to Run**
-1. Download the `FINAL-BEST-GUI.py` file.
+1. Download the `CNN_GUI.py` file.
 2. Open a terminal or command prompt and navigate to the directory containing the file.
 3. Run the script:
    ```bash
-   python FINAL-BEST-GUI.py
+   python CNN_GUI.py
    ```
 4. The GUI will launch, allowing you to interact with the software.
 
@@ -88,7 +88,7 @@ To distribute this software as an executable file:
    ```bash
    pip install pyinstaller
    ```
-2. Navigate to the directory containing `FINAL-BEST-GUI.py`.
+2. Navigate to the directory containing `CNN_GUI.py`.
 3. Run PyInstaller:
    ```bash
    pyinstaller --onefile --noconsole CNN_GUI.py
